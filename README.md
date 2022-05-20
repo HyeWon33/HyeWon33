@@ -1,4 +1,4 @@
-# 👋Hi👋
+# Hi
 
 
 🌱 I’m currently learning xArm 5  
